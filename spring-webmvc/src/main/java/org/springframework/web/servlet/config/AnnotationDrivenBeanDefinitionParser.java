@@ -150,6 +150,7 @@ import org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolv
  * @author Brian Clozel
  * @author Agim Emruli
  * @since 3.0
+ *
  */
 class AnnotationDrivenBeanDefinitionParser implements BeanDefinitionParser {
 
